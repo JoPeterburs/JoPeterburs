@@ -1,4 +1,8 @@
-## Hi, I'm Josie
+## Hi, I'm Josie!
+
+## Data Science (BS/MS) at Loyola Univeristy Chicago
+
+I am currently a third year undergrad studying Data Science with a minor in Statistics at Loyola University Chicago. I graduate this spring, but I plan to continue my studies at Loyola at the graduate level (expected graduation: Spring 2026).
 
 <!--
 **JoPeterburs/JoPeterburs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
