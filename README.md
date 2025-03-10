@@ -16,7 +16,7 @@ I am currently a third year undergrad studying Data Science with a minor in Stat
 
 ## 2. 📊 Data Science Projects
 
-- NCAA Basketball Exploratory Analysis:
+- NCAA Basketball Exploratory Analysis: [NCAA Basketball]([www.urlbase.com](https://github.com/JoPeterburs/dsci101-project.git))
 - Loyola Chicago Minor Recommendation:
 
 ## 3. 📝 Relevant Coursework
