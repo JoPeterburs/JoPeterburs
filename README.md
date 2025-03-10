@@ -10,7 +10,7 @@
 
 ## 1. 👋 About Me
 
-#### Data Science (BS/MS) at Loyola University Chicago.
+### Data Science (BS/MS) at Loyola University Chicago.
 
 I am currently a third year undergrad studying Data Science with a minor in Statistics at Loyola University Chicago. I graduate this spring, but I plan to continue my studies at Loyola at the graduate level (expected graduation: Spring 2026).
 
@@ -44,7 +44,7 @@ I am currently a third year undergrad studying Data Science with a minor in Stat
 
 ## 4. 🌱 Interests
 
-#### 🏀 Sports
+### 🏀 Sports
 
 **Experience**
 - Assistant Director of Basketball Operations for LUC Women's Basketball Team
