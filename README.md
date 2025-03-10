@@ -1,4 +1,4 @@
-## Hi, I'm Josie!
+## Hello!
 
 ## Get to know me:
 
@@ -16,8 +16,8 @@ I am currently a third year undergrad studying Data Science with a minor in Stat
 
 ## 2. 📊 Data Science Projects
 
-- NCAA Basketball Exploratory Analysis: [NCAA Basketball]([www.urlbase.com](https://github.com/JoPeterburs/dsci101-project.git))
-- Loyola Chicago Minor Recommendation:
+- NCAA Basketball Exploratory Analysis: [NCAA Basketball](https://github.com/JoPeterburs/dsci101-project.git)
+- Loyola Chicago Minor Recommendation: [Minor Recommendation](https://github.com/JoPeterburs/370-project.git)
 
 ## 3. 📝 Relevant Coursework
 
@@ -44,21 +44,22 @@ I am currently a third year undergrad studying Data Science with a minor in Stat
 
 ## 4. 🌱 Interests
 
+#### 🏀 Sports
+
+**Experience**
+- Assistant Director of Basketball Operations for LUC Women's Basketball Team
+  - Worked with Director of Operations to analyze in-game statistics and performance.
+    - Analyzed four important factors for every game in the 24-25 season. (Offense Points per Possession,  Effective FG%, Turnover Rate, Off Rebound%, FT Attempt Rate).
+    - Explored offensive game by tracking shot types, potential assists, and shot quality for every in-game possession in 24-25 season.
+  - Set up equipment, manage game clock and camera, cut and label film from practices, handle team logistics, and work with coaches and players.
+
+**Research**
+- Tournament Structure Research (Ongoing)
+  - Simulate various tournament structures in R
+  - Quantify how well a tournament performs by analyzing which structures yield rankings closest to the true team strength.
+ 
+- Fan of all sports, but specifically basketball and volleyball.
+
 ## 5. 👥 Connect
 
 - LinkedIn: www.linkedin.com/in/josie-peterburs-563151274
-
-<!--
-**JoPeterburs/JoPeterburs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
