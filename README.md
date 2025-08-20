@@ -17,8 +17,8 @@ I am currently a third year undergrad studying Data Science with a minor in Stat
 ## 2. 📊 Data Science Projects
 
 - Tournamant Structure Research (Ongoing): [Tournaments](https://github.com/gjm112/tournaments.git)
-- Loyola Chicago Minor Recommendation (Ongoing): [Minor Recommendation](https://github.com/JoPeterburs/370-project.git)
-- NCAA Basketball Exploratory Analysis: [NCAA Basketball](https://github.com/JoPeterburs/dsci101-project.git)
+- Women's Basketball Logistic Regression Analysis (STAT 410): [Basketball Logistic Regression](https://github.com/JoPeterburs/stat410-project)
+- NCAA Basketball Exploratory Analysis (DSCI 101): [NCAA Basketball](https://github.com/JoPeterburs/dsci101-project.git)
 
 ## 3. 📝 Relevant Coursework
 
