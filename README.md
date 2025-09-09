@@ -30,6 +30,7 @@ I am currently a graduate student studying Data Science at Loyola University Chi
 - Categorical Data Analysis
 - Data Science Consulting
 - Nonparametric Methods
+
 **Computer Science**
 - Big Data Analytics
 - Database Administration
