@@ -12,7 +12,7 @@
 
 ### Data Science (BS/MS) at Loyola University Chicago.
 
-I am currently a third year undergrad studying Data Science with a minor in Statistics at Loyola University Chicago. I graduate this spring, but I plan to continue my studies at Loyola at the graduate level (expected graduation: Spring 2026).
+I am currently a graduate student studying Data Science at Loyola University Chicago. I also completed my undergraudate degree in Data Science at Loyola (2022-2025).
 
 ## 2. 📊 Data Science Projects
 
@@ -22,6 +22,20 @@ I am currently a third year undergrad studying Data Science with a minor in Stat
 
 ## 3. 📝 Relevant Coursework
 
+**Graduate Courses**
+
+**Statistics**
+- Introduction to Data Science (R and Python)
+- Predictive Analytics
+- Categorical Data Analysis
+- Data Science Consulting
+- Nonparametric Methods
+**Computer Science**
+- Big Data Analytics
+- Database Administration
+
+**Undergradute Courses**
+
 **Math**
 - Calculus (I, II, III)
 - Linear Algebra
@@ -29,10 +43,8 @@ I am currently a third year undergrad studying Data Science with a minor in Stat
 
 **Statistics**
 - Applied Regression Analysis
-- Categorical Data Analysis
 - SAS Programming & Applied Statstics
 - Modeling and Simulation
-- Predictive Analytics (in R)
 - Introduction to Probability
 - Introduction to Math Stats
 
@@ -40,8 +52,7 @@ I am currently a third year undergrad studying Data Science with a minor in Stat
 - Data Structures and Algorithms
 - Database Programming
 - Data Mining
-- Deep Learning (in Python)
-- Big Data Analytics
+- Deep Learning (Python)
 
 ## 4. 🌱 Interests
 
