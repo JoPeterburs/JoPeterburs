@@ -22,7 +22,7 @@ I am currently a graduate student studying Data Science at Loyola University Chi
 
 ## 3. 📝 Relevant Coursework
 
-#### Graduate Courses
+### Graduate Courses
 
 **Statistics**
 - Introduction to Data Science (R and Python)
@@ -35,7 +35,7 @@ I am currently a graduate student studying Data Science at Loyola University Chi
 - Big Data Analytics
 - Database Administration
 
-#### Undergradute Courses
+### Undergradute Courses
 
 **Math**
 - Calculus (I, II, III)
