@@ -12,12 +12,13 @@
 
 ### Data Science (BS/MS) at Loyola University Chicago.
 
-I am currently a graduate student studying Data Science at Loyola University Chicago. I also completed my undergraudate degree in Data Science at Loyola (2022-2025).
+I am currently a graduate student studying Data Science at Loyola University Chicago (expected graduation May 2026). I also completed my undergraudate degree in Data Science at Loyola (2022-2025).
 
 ## 2. 📊 Data Science Projects
 
 - Tournamant Structure Research (Ongoing): [Tournaments](https://github.com/gjm112/tournaments.git)
 - Women's Basketball Logistic Regression Analysis (STAT 410): [Basketball Logistic Regression](https://github.com/JoPeterburs/stat410-project)
+- Shiny App to Recommend Minors based on Completed Loyola Courses (STAT 370): 
 - NCAA Basketball Exploratory Analysis (DSCI 101): [NCAA Basketball](https://github.com/JoPeterburs/dsci101-project.git)
 
 ## 3. 📝 Relevant Coursework
@@ -65,6 +66,12 @@ I am currently a graduate student studying Data Science at Loyola University Chi
     - Analyzed four important factors for every game in the 24-25 season. (Offense Points per Possession,  Effective FG%, Turnover Rate, Off Rebound%, FT Attempt Rate).
     - Explored offensive game by tracking shot types, potential assists, and shot quality for every in-game possession in 24-25 season.
   - Set up equipment, manage game clock and camera, cut and label film from practices, handle team logistics, and work with coaches and players.
+ 
+- Student Consultant for Loyola Center for Data Science Consulting
+  - Executed analytical projects for internal and external clients of the Center.
+      - Analyzed EBT usage at Chicago farmers markets, improving insights into community resource access.
+      - Explored correlations between course attendance and academic performance in Loyola math courses.
+      - Mapped violent crime distribution across major U.S. cities.
 
 **Research**
 - Tournament Structure Research (Ongoing)
