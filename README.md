@@ -31,10 +31,13 @@ I am currently a graduate student studying Data Science at Loyola University Chi
 - Categorical Data Analysis
 - Data Science Consulting
 - Nonparametric Methods
+- Multivariate Analysis
+- Independent Study on Mixed-Effects Models
 
 **Computer Science**
 - Big Data Analytics
 - Database Administration
+- Natural Language Processing
 
 ### Undergradute Courses
 
@@ -61,17 +64,17 @@ I am currently a graduate student studying Data Science at Loyola University Chi
 ### 🏀 Sports
 
 **Experience**
-- Assistant Director of Basketball Operations for LUC Women's Basketball Team
-  - Worked with Director of Operations to analyze in-game statistics and performance.
-    - Analyzed four important factors for every game in the 24-25 season. (Offense Points per Possession,  Effective FG%, Turnover Rate, Off Rebound%, FT Attempt Rate).
-    - Explored offensive game by tracking shot types, potential assists, and shot quality for every in-game possession in 24-25 season.
-  - Set up equipment, manage game clock and camera, cut and label film from practices, handle team logistics, and work with coaches and players.
- 
 - Student Consultant for Loyola Center for Data Science Consulting
   - Executed analytical projects for internal and external clients of the Center.
       - Analyzed EBT usage at Chicago farmers markets, improving insights into community resource access.
       - Explored correlations between course attendance and academic performance in Loyola math courses.
       - Mapped violent crime distribution across major U.S. cities.
+
+- Assistant Director of Basketball Operations for LUC Women's Basketball Team
+  - Worked with Director of Operations to analyze in-game statistics and performance.
+    - Analyzed four important factors for every game in the 24-25 season. (Offense Points per Possession,  Effective FG%, Turnover Rate, Off Rebound%, FT Attempt Rate).
+    - Explored offensive game by tracking shot types, potential assists, and shot quality for every in-game possession in 24-25 season.
+  - Set up equipment, manage game clock and camera, cut and label film from practices, handle team logistics, and work with coaches and players.
 
 **Research**
 - Tournament Structure Research (Ongoing)
