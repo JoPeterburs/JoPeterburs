@@ -72,7 +72,7 @@ I am currently a graduate student studying Data Science at Loyola University Chi
 
 - Assistant Director of Basketball Operations for LUC Women's Basketball Team
   - Worked with Director of Operations to analyze in-game statistics and performance.
-    - Analyzed four important factors for every game in the 24-25 season. (Offense Points per Possession,  Effective FG%, Turnover Rate, Off Rebound%, FT Attempt Rate).
+    - Analyzed four important factors for every game in the 24-25 and 25-26 season. (Offense Points per Possession,  Effective FG%, Turnover Rate, Off Rebound%, FT Attempt Rate).
     - Explored offensive game by tracking shot types, potential assists, and shot quality for every in-game possession in 24-25 season.
   - Set up equipment, manage game clock and camera, cut and label film from practices, handle team logistics, and work with coaches and players.
 
