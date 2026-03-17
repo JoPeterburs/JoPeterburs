@@ -17,7 +17,7 @@ I am currently a graduate student studying Data Science at Loyola University Chi
 ## 2. 📊 Data Science Projects
 
 - Tournamant Structure Research (Ongoing): [Tournaments](https://github.com/gjm112/tournaments.git)
-- NCAA Women's Basketball PCA: Tournament vs Non-Tournament Teams: [Basketball PCA](https://github.com/JoPeterburs/NCAA-Womens-Basketball)
+- NCAA Women's Basketball PCA: Tournament vs Non-Tournament Teams: [Basketball PCA]([https://github.com/JoPeterburs/NCAA-Womens-Basketball](https://github.com/JoPeterburs/NCAA-Womens-Basketball/tree/main/Project1%3A%20PCA)
 - Women's Basketball Logistic Regression Analysis (STAT 410): [Basketball Logistic Regression](https://github.com/JoPeterburs/stat410-project)
 - Shiny App to Recommend Minors based on Completed Loyola Courses (STAT 370): 
 - NCAA Basketball Exploratory Analysis (DSCI 101): [NCAA Basketball](https://github.com/JoPeterburs/dsci101-project.git)
